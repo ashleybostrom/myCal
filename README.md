@@ -1,6 +1,6 @@
 # myCal Scheduler
 
-This application serves users as employees with busy schedules who would like to have a visual representation of a daily planner that they can add, edit, or delete important events to and from in order to more effectively manage their time. The application will have hours of time shown columns that will display grey on blocks of time that have already passed, display red upon the current hour, and display green for time and tasks yet to be completed. This way the users will be able to have a very clear interface where they can more effectively and efficiently manage their time, energy, and focus.
+This application serves users that are employees with busy schedules who would like to have a visual representation of a daily planner that they can add, edit, or delete important events to and from in order to more effectively manage their time. The application will have hours of time shown in columns that will display in different colors based on status: grey for time that has already passed; red upon the current hour; green for time and tasks yet to be completed. This way the users will be able to have a very clear interface where they can more effectively and efficiently manage their time, energy, and focus.
 
 USER STORY
 ```
